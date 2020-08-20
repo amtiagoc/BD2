@@ -25,6 +25,7 @@ El contenido esta dividido en 5 unidades así:
 |[2020/08/05](https://www.youtube.com/watch?v=iiA3vkQKAYU)|
 |[2020/08/10](https://www.youtube.com/watch?v=Nmh0xPXwff8)|
 |[2020/08/12](https://www.youtube.com/watch?v=ru-U7uWDpaY)|
+|[2020/08/19](https://youtu.be/yRmfhzvl8jc)|
 
 
 # Implementar sistema de base de datos NOSQL usando Apache Cassandra
