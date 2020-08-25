@@ -17,7 +17,7 @@ El contenido esta dividido en 5 unidades así:
 - [Diseño base de datos en Apache Cassandra y Diagramas de Chebotko](C1_NO_ONLY_SQL_DESIGN/BD2_C1A_Cassandra%20Modelado.pdf)
 - [Intro y Diseño base de datos en MongoDB](C1_NO_ONLY_SQL_DESIGN/BD2_C1B_Mongo_Modelando.pdf)
 - [Enunciado Ejercicio Propuesto - Agencia Inmoviliaria](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_AgenciaInmobiliaria.pdf)
-
+- [SOLUCION Ejercicio Propuesto - Agencia Inmoviliaria](C1_NO_ONLY_SQL_DESIGN/BD2_C1Z_AgenciaInmobiliaria.pdf)
 
 ## Enlaces a los videos de clase
 |Fecha           |
@@ -26,6 +26,7 @@ El contenido esta dividido en 5 unidades así:
 |[2020/08/10](https://www.youtube.com/watch?v=Nmh0xPXwff8)|
 |[2020/08/12](https://www.youtube.com/watch?v=ru-U7uWDpaY)|
 |[2020/08/19](https://youtu.be/yRmfhzvl8jc)|
+|[2020/08/25](https://youtu.be/jxOVEQECDEI)|
 
 
 # Implementar sistema de base de datos NOSQL usando Apache Cassandra
