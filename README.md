@@ -35,7 +35,7 @@ El contenido de esta unidad abarca los siguientes temas:
 - [Instalar Herramienta Grafica base de datos](http://sergalpe.blogspot.com/2018/10/ide-grafico-para-apache-cassandra.html)
 - Intro características técnicas
    - [GestoresNoSQL –Apache Cassandra Universidad de Cantabria](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/NoSQL_Tema2_Cassandra.pdf)
- 
+   - [The Cassandra Query Language (CQL)](https://cassandra.apache.org/doc/latest/cql/index.html)
 - Crear “KeySpaces” y configuración de replicas
 - Crear “Column Family” y detalle de todos los tipos de campos
 - Introducción al CQL
