@@ -36,9 +36,12 @@ El contenido de esta unidad abarca los siguientes temas:
 - Intro características técnicas
    - [GestoresNoSQL –Apache Cassandra Universidad de Cantabria](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/NoSQL_Tema2_Cassandra.pdf)
    - [The Cassandra Query Language (CQL)](https://cassandra.apache.org/doc/latest/cql/index.html)
-- Crear “KeySpaces” y configuración de replicas
-- Crear “Column Family” y detalle de todos los tipos de campos
-- Introducción al CQL
+
+## Enlaces a los videos de clase
+|Fecha           |
+|----------------|
+|[2020/08/31](https://youtu.be/kkm3bMZhWzM)|
+
 # Implementar sistema de base de datos NOSQL usando MongoDB
 El contenido de esta unidad abarca los siguientes temas:
 - Intro características técnicas, Instalación y administración
