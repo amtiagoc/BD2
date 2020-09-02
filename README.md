@@ -41,6 +41,7 @@ El contenido de esta unidad abarca los siguientes temas:
 |Fecha           |
 |----------------|
 |[2020/08/31](https://youtu.be/kkm3bMZhWzM)|
+|[2020/09/02](https://youtu.be/GOnFVhf5fZA)|
 
 # Implementar sistema de base de datos NOSQL usando MongoDB
 El contenido de esta unidad abarca los siguientes temas:
