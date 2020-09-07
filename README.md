@@ -36,6 +36,7 @@ El contenido de esta unidad abarca los siguientes temas:
 - Intro características técnicas
    - [GestoresNoSQL –Apache Cassandra Universidad de Cantabria](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/NoSQL_Tema2_Cassandra.pdf)
    - [The Cassandra Query Language (CQL)](https://cassandra.apache.org/doc/latest/cql/index.html)
+- [Ejercicio de Clase - Sistema de Estadisticas](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
 
 ## Enlaces a los videos de clase
 |Fecha           |
