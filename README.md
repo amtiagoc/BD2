@@ -60,6 +60,13 @@ El contenido de esta unidad abarca los siguientes temas:
 - Introducción al lenguaje de consultas usando JSon
 - Consultas avanzadas y minería de datos usando PipeLines
 - Análisis de consultas e Indexación
+
+## Enlaces a los videos de clase
+|Fecha           |
+|----------------|
+|[2020/09/12](https://youtu.be/_cjrIhD5OaQ)|
+
+
 # Opción procedimental base de datos de distribución libre (MySQL)
 El contenido de esta unidad abarca los siguientes temas:
 - Repaso modelo Relacional
