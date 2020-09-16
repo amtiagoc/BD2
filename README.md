@@ -50,7 +50,7 @@ El contenido de esta unidad abarca los siguientes temas:
 
 # Implementar sistema de base de datos NOSQL usando MongoDB
 El contenido de esta unidad abarca los siguientes temas:
-- Instalar base de datos y herramienta de admin grafica (C3_MONGODB/BD2_C3B_noSQL_MongoDB-Instalar.pdf)
+- [Instalar base de datos y herramienta de admin grafica](C3_MONGODB/BD2_C3B_noSQL_MongoDB-Instalar.pdf)
 - Intro características técnicas
    - [GestoresNoSQL –MongoDB Universidad de Cantabria](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/NoSQL_Tema2_MongoDB.pdf)
 - Herramientas de Edición de JSon
@@ -60,6 +60,13 @@ El contenido de esta unidad abarca los siguientes temas:
 - Introducción al lenguaje de consultas usando JSon
 - Consultas avanzadas y minería de datos usando PipeLines
 - Análisis de consultas e Indexación
+
+## Enlaces a los videos de clase
+|Fecha           |
+|----------------|
+|[2020/09/12](https://youtu.be/_cjrIhD5OaQ)|
+
+
 # Opción procedimental base de datos de distribución libre (MySQL)
 El contenido de esta unidad abarca los siguientes temas:
 - Repaso modelo Relacional
