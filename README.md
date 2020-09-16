@@ -53,6 +53,7 @@ El contenido de esta unidad abarca los siguientes temas:
 - [Instalar base de datos y herramienta de admin grafica](C3_MONGODB/BD2_C3B_noSQL_MongoDB-Instalar.pdf)
 - Intro características técnicas
    - [GestoresNoSQL –MongoDB Universidad de Cantabria](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/NoSQL_Tema2_MongoDB.pdf)
+   - [Agregaciones](https://data-flair.training/blogs/mongodb-aggregation-tutorial/)
 - Herramientas de Edición de JSon
    - [JSon WEB Editor](https://jsoneditoronline.org/)
    - [Validar un JSon](https://jsonlint.com/)   
@@ -65,6 +66,8 @@ El contenido de esta unidad abarca los siguientes temas:
 |Fecha           |
 |----------------|
 |[2020/09/12](https://youtu.be/_cjrIhD5OaQ)|
+|[2020/09/16](https://youtu.be/Lqu2wu0dQqY)|
+
 
 
 # Opción procedimental base de datos de distribución libre (MySQL)
