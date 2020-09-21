@@ -67,6 +67,7 @@ El contenido de esta unidad abarca los siguientes temas:
 |----------------|
 |[2020/09/12](https://youtu.be/_cjrIhD5OaQ)|
 |[2020/09/16](https://youtu.be/Lqu2wu0dQqY)|
+|[2020/09/21](https://youtu.be/IxsQIwZfwOs)|
 
 
 
