@@ -63,8 +63,8 @@ El contenido de esta unidad abarca los siguientes temas:
    - Consultas avanzadas y minería de datos usando PipeLines
    - Análisis de consultas e Indexación
 - Ejercicio de clase - Dane Ciudad Nace y vive
-   - [nunciado](C3_MONGODB/BD2_C1Y_DANE_CiudadNace_a_vivido.pdf)
-   - [olución](C3_MONGODB/BD2_C1Z_DANE_CiudadNace_a_vivido.pdf)
+   - [Enunciado](C3_MONGODB/BD2_C1Y_DANE_CiudadNace_a_vivido.pdf)
+   - [Solución](C3_MONGODB/BD2_C1Z_DANE_CiudadNace_a_vivido.pdf)
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
