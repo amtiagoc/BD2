@@ -57,11 +57,14 @@ El contenido de esta unidad abarca los siguientes temas:
 - Herramientas de Edición de JSon
    - [JSon WEB Editor](https://jsoneditoronline.org/)
    - [Validar un JSon](https://jsonlint.com/)   
-- Opciones para validar la consistencia de los JSon
-- Introducción al lenguaje de consultas usando JSon
-- Consultas avanzadas y minería de datos usando PipeLines
-- Análisis de consultas e Indexación
-
+- [Presentación documentacion](C3_MONGODB/BD2_C3_noSQL_Mongo.pdf)
+   - Opciones para validar la consistencia de los JSon
+   - Introducción al lenguaje de consultas usando JSon
+   - Consultas avanzadas y minería de datos usando PipeLines
+   - Análisis de consultas e Indexación
+- Ejercicio de clase - Dane Ciudad Nace y vive
+   - [nunciado](C3_MONGODB/BD2_C1Y_DANE_CiudadNace_a_vivido.pdf)
+   - [olución](C3_MONGODB/BD2_C1Z_DANE_CiudadNace_a_vivido.pdf)
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
