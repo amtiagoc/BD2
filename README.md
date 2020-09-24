@@ -62,7 +62,7 @@ El contenido de esta unidad abarca los siguientes temas:
    - Introducción al lenguaje de consultas usando JSon
    - Consultas avanzadas y minería de datos usando PipeLines
    - Análisis de consultas e Indexación
-- [Vistas] (https://docs.mongodb.com/compass/current/views/)
+- [Vistas](https://docs.mongodb.com/compass/current/views/)
 - Ejercicio de clase - Dane Ciudad Nace y vive
    - [Enunciado](C3_MONGODB/BD2_C1Y_DANE_CiudadNace_a_vivido.pdf)
    - [Solución](C3_MONGODB/BD2_C1Z_DANE_CiudadNace_a_vivido.pdf)
