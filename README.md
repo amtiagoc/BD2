@@ -81,10 +81,18 @@ El contenido de esta unidad abarca los siguientes temas:
    - [Mongodb vs Cassandra](https://www.educba.com/mongodb-vs-cassandra/)
 
 # Opción procedimental base de datos de distribución libre (MySQL)
-El contenido de esta unidad abarca los siguientes temas:
-- Repaso modelo Relacional
-- Repaso DML
-- Repaso teoría de Procedimientos almacenados y disparadores
+## Punto de Partida:
+- [Primeras tres formas normales](https://es.wikipedia.org/wiki/Tercera_forma_normal)
+- [Denormalización](https://es.wikipedia.org/wiki/Denormalizaci%C3%B3n_(base_de_datos))
+- [Modelo Relacinal](https://es.wikipedia.org/wiki/Base_de_datos_relacional)
+- [DML](https://es.wikipedia.org/wiki/Lenguaje_de_manipulaci%C3%B3n_de_datos)
+## Opcion Procedimental
+- [Variables](https://dev.mysql.com/doc/refman/8.0/en/local-variable-scope.html)
+- [Condicionales y Ciclos](https://dev.mysql.com/doc/refman/8.0/en/flow-control-statements.html)
+- [Procedimientos Almacenados](https://dev.mysql.com/doc/refman/8.0/en/create-procedure.html)
+- [Cursores](https://dev.mysql.com/doc/refman/8.0/en/cursors.html)
+## Temas a trabajar
+- Opción procedimental Procedimientos almacenados y disparadores
 - Opción procedimental avanzada (Cursores, Lanzar Errores del Usuario)
 - Análisis de consultas e Indexación
 # Opción procedimental base de datos de licenciamiento (Oracle)
