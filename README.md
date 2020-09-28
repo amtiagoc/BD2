@@ -91,6 +91,10 @@ El contenido de esta unidad abarca los siguientes temas:
 - [Condicionales y Ciclos](https://dev.mysql.com/doc/refman/8.0/en/flow-control-statements.html)
 - [Procedimientos Almacenados](https://dev.mysql.com/doc/refman/8.0/en/create-procedure.html)
 - [Cursores](https://dev.mysql.com/doc/refman/8.0/en/cursors.html)
+## [Herramientas](C4_MYSQL/Instalar%20Herramientas_MySQLpdf.pdf)
+- [MySQL](http://www.wampserver.com/en/)
+- [Herramienta CASE:MySQL Workbench version 6.3](https://downloads.mysql.com/archives/workbench/)
+- [Herramienta Comandos SQL:SQLYOG](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 ## Temas a trabajar
 - Opción procedimental Procedimientos almacenados y disparadores
 - Opción procedimental avanzada (Cursores, Lanzar Errores del Usuario)
