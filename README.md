@@ -74,6 +74,11 @@ El contenido de esta unidad abarca los siguientes temas:
 |[2020/09/21](https://youtu.be/IxsQIwZfwOs)|
 |[2020/09/23](https://youtu.be/6PRav-7A7aA)|
 
+# Analisis NOSQL
+- [NoSQL Databases Every Data Scientist Should Know About in 2020](https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/)
+- Apache Cassandra VS MongoDB
+   - [cuando usar Cassandra? o cuando usar Mongodb?](http://solocodigoweb.com/blog/2018/05/18/cuando-usar-cassandra-cuando-usar-mongodb/)
+   - [Mongodb vs Cassandra](https://www.educba.com/mongodb-vs-cassandra/)
 
 # Opción procedimental base de datos de distribución libre (MySQL)
 El contenido de esta unidad abarca los siguientes temas:
