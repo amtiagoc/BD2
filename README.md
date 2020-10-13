@@ -39,6 +39,7 @@ El contenido de esta unidad abarca los siguientes temas:
    - [Info Batch](https://docs.datastax.com/en/archived/cql/3.3/cql/cql_reference/cqlBatch.html)
 - [Ejercicio de Clase - Sistema de Estadisticas](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
 - [Ejercicio Auto Estudio - Sistema de Estacionamientos](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_SistemaEstacionamientoInteligente.pdf)
+- [**NUEVO 2020/10/13 - Taller UDEM](C2_CASSANDRA/BD2_C2_charla_udem_ejemplo_metro.zip)
 
 ## Enlaces a los videos de clase
 |Fecha           |
