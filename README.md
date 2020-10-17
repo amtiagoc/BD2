@@ -107,6 +107,7 @@ El contenido de esta unidad abarca los siguientes temas:
 |[2020/09/28](https://youtu.be/3K9rEPTe9yQ)|
 |[2020/09/30](https://youtu.be/1X1G7JHAC6Y)|
 |[2020/10/07](https://youtu.be/KmtOejYQcIA)|
+|[2020/10/15](https://youtu.be/KfRwJ9Pm5KU)|
 # Opción procedimental base de datos de licenciamiento (Oracle)
 El contenido de esta unidad abarca los siguientes temas:
 - Manejo de cliente en la Nube
