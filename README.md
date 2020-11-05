@@ -113,7 +113,7 @@ El contenido de esta unidad abarca los siguientes temas:
 |[2020/10/19](https://youtu.be/yTYVYlkykFI)|
 |[2020/10/21](https://youtu.be/9GyJ1WsY2Ec)|
 # Transaccionalidad y Optimización
-## Punto de Partida:
+## Presentaciones:
 - [UNAL transacciones](C6_TRANS_IDX/BD2_C6A_UNAL_transacciones_en_Oracle_y_MySQL.pdf)
 - [Modo Auto Commit](C6_TRANS_IDX/BD2_C6B_transacciones_en_Oracle_y_MySQL.pdf)
 - [Permisos, Concurrencia y Candados](C6_TRANS_IDX/BD2_C6C_Permisos_Concurrencia_y_candados_MySQL.pdf)
