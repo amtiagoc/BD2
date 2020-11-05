@@ -109,12 +109,19 @@ El contenido de esta unidad abarca los siguientes temas:
 |[2020/09/28](https://youtu.be/3K9rEPTe9yQ)|
 |[2020/09/30](https://youtu.be/1X1G7JHAC6Y)|
 |[2020/10/07](https://youtu.be/KmtOejYQcIA)|
-|[2020/10/15](https://youtu.be/KfRwJ9Pm5KU)|
+|[2020/10/14](https://youtu.be/KfRwJ9Pm5KU)|
 |[2020/10/19](https://youtu.be/yTYVYlkykFI)|
 |[2020/10/21](https://youtu.be/9GyJ1WsY2Ec)|
-# Opción procedimental base de datos de licenciamiento (Oracle)
-El contenido de esta unidad abarca los siguientes temas:
-- Manejo de cliente en la Nube
-- Manejo de permisos
-- Opción procedimental avanzada (manejo de transaccionalidad y concurrencia)
+# Transaccionalidad y Optimización
+## Punto de Partida:
+- [UNAL transacciones](C6_TRANS_IDX/BD2_C6A_UNAL_transacciones_en_Oracle_y_MySQL.pdf)
+- [Modo Auto Commit](C6_TRANS_IDX/BD2_C6B_transacciones_en_Oracle_y_MySQL.pdf)
+- [Permisos, Concurrencia y Candados](C6_TRANS_IDX/BD2_C6C_Permisos_Concurrencia_y_candados_MySQL.pdf)
+- [Indexación](C6_TRANS_IDX/BD2_C6D_indexaci%C3%B3n.pdf)
+## Enlaces a los videos de clase
+|Fecha           |
+|----------------|
+|[2020/10/26]()|
+|[2020/11/04]()|
+
 
