@@ -123,9 +123,6 @@ El contenido de esta unidad abarca los siguientes temas:
 ### Indexación
 - [Parte 1](https://www.youtube.com/watch?v=Y7Qlc7f_u0o)
 - [Parte 2](https://www.youtube.com/watch?v=HSnwW5Punm0)
-### Constrains
-- [Parte 1](https://www.youtube.com/watch?v=EGeDJzdh--o)
-- [Parte 2](https://www.youtube.com/watch?v=Efd1lpZCWCM)
 ### Transacciones
 - [Parte 1](https://www.youtube.com/watch?v=O2wYl9UHFNc)
 - [Parte 2](https://www.youtube.com/watch?v=r6ALmAXRHQM)
