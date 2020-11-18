@@ -134,7 +134,9 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-|[2020/10/26]()|
-|[2020/11/04]()|
+|[2020/10/26](https://youtu.be/lijmrwXKrNI)|
+|[2020/11/04](https://youtu.be/rraeDeKGa-k)|
+|[2020/11/09](https://youtu.be/2a6nsZa6iQk)|
+|[2020/11/18](https://youtu.be/iB_XtS0-K9g)|
 
 
