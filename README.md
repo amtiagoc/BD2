@@ -140,3 +140,5 @@ El contenido de esta unidad abarca los siguientes temas:
 |[2020/11/18](https://youtu.be/iB_XtS0-K9g)|
 
 
+# Cierre
+- [Presentación final](C8/BD2_C8-Cierre-Temas.pdf)
