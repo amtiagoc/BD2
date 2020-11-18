@@ -118,6 +118,8 @@ El contenido de esta unidad abarca los siguientes temas:
 - [Modo Auto Commit](C6_TRANS_IDX/BD2_C6B_transacciones_en_Oracle_y_MySQL.pdf)
 - [Permisos, Concurrencia y Candados](C6_TRANS_IDX/BD2_C6C_Permisos_Concurrencia_y_candados_MySQL.pdf)
 - [Indexación](C6_TRANS_IDX/BD2_C6D_indexaci%C3%B3n.pdf)
+- [Ejemplo Optimización MySQL](C6_TRANS_IDX/BD2_C6E_Optimizaci%C3%B3nMySQL.pdf)
+- [Permisos](C6_TRANS_IDX/BD2_C6F_Permisos.pdf)
 
 ## Videos "Base de Datos" Universidad de Stanford Dbclass:
 ### Indexación
