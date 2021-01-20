@@ -22,11 +22,7 @@ El contenido esta dividido en 5 unidades así:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-|[2020/08/05](https://www.youtube.com/watch?v=iiA3vkQKAYU)|
-|[2020/08/10](https://www.youtube.com/watch?v=Nmh0xPXwff8)|
-|[2020/08/12](https://www.youtube.com/watch?v=ru-U7uWDpaY)|
-|[2020/08/19](https://youtu.be/yRmfhzvl8jc)|
-|[2020/08/25](https://youtu.be/jxOVEQECDEI)|
+
 
 
 # Implementar sistema de base de datos NOSQL usando Apache Cassandra
@@ -44,10 +40,7 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-|[2020/08/31](https://youtu.be/kkm3bMZhWzM)|
-|[2020/09/02](https://youtu.be/GOnFVhf5fZA)|
-|[2020/09/07 Primera Parte](https://youtu.be/WN9N-HD7IC8)|
-|[2020/09/07 Segunda Parte](https://youtu.be/p-2TiPC6jGk)|
+
 
 # Implementar sistema de base de datos NOSQL usando MongoDB
 El contenido de esta unidad abarca los siguientes temas:
@@ -70,10 +63,7 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-|[2020/09/12](https://youtu.be/_cjrIhD5OaQ)|
-|[2020/09/16](https://youtu.be/Lqu2wu0dQqY)|
-|[2020/09/21](https://youtu.be/IxsQIwZfwOs)|
-|[2020/09/23](https://youtu.be/6PRav-7A7aA)|
+
 
 # Analisis NOSQL
 - [NoSQL Databases Every Data Scientist Should Know About in 2020](https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/)
@@ -106,12 +96,7 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-|[2020/09/28](https://youtu.be/3K9rEPTe9yQ)|
-|[2020/09/30](https://youtu.be/1X1G7JHAC6Y)|
-|[2020/10/07](https://youtu.be/KmtOejYQcIA)|
-|[2020/10/14](https://youtu.be/KfRwJ9Pm5KU)|
-|[2020/10/19](https://youtu.be/yTYVYlkykFI)|
-|[2020/10/21](https://youtu.be/9GyJ1WsY2Ec)|
+
 # Transaccionalidad y Optimización
 ## Presentaciones:
 - [UNAL transacciones](C6_TRANS_IDX/BD2_C6A_UNAL_transacciones_en_Oracle_y_MySQL.pdf)
@@ -134,11 +119,6 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-|[2020/10/26](https://youtu.be/lijmrwXKrNI)|
-|[2020/11/04](https://youtu.be/rraeDeKGa-k)|
-|[2020/11/09](https://youtu.be/2a6nsZa6iQk)|
-|[2020/11/18](https://youtu.be/12v4wkJZ7qk)|
 
 
-# Cierre
-- [Presentación final](C8/BD2_C8-Cierre-Temas.pdf)
+
