@@ -91,8 +91,6 @@ El contenido de esta unidad abarca los siguientes temas:
 - Opción procedimental Procedimientos almacenados y disparadores
 - Opción procedimental avanzada (Cursores, Lanzar Errores del Usuario)
 - Análisis de consultas e Indexación
-## Ejercicio auto estudio
-- [Modelo Inventarios - Abonos sin saldo a favor](C4_MYSQL/BD2_C4Y_Modelo_inventarios_abonos_sin_saldo_a_favor.pdf)
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
