@@ -23,6 +23,7 @@ El contenido esta dividido en 5 unidades así:
 |----------------|
 |[20210126- Documentos BD2_C0B_Repaso_Modelo_ER](https://youtu.be/r_7ZQV_CgII)|
 |[20210128- Documentos BD2_C1_NO_ONLY_SQL y BD2_C1A_Cassandra Modelado](https://youtu.be/WWstYeoIJ3w)|
+|[20210128- Documentos BD2_C1A_Cassandra Modelado, BD2_C1AX_Cassandra Data Modeling Strategies, BD2_C1B_Mongo_Modelando y BD2_C1Y_AgenciaInmobiliaria](https://youtu.be/0jGFTnNbfzk)|
 
 ## Preparación Examen
 ### Agencia Inmoviliaria
