@@ -29,16 +29,17 @@ El contenido esta dividido en 5 unidades así:
 ## Preparación Examen
 ### Agencia Inmoviliaria
 - [Enunciado](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_AgenciaInmobiliaria.pdf)
-- [Video Desarrollo SOlución](https://youtu.be/jxOVEQECDEI)
+- [Video Desarrollo Solución](https://youtu.be/jxOVEQECDEI)
 - [SOLUCION](C1_NO_ONLY_SQL_DESIGN/BD2_C1Z_AgenciaInmobiliaria.pdf)
 
 ### Estadisticas
 - [Enunciado](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
 - [Primera parte](https://www.youtube.com/watch?v=WN9N-HD7IC8)
-- [Segunda parte](https://www.youtube.com/watch?v=kkm3bMZhWzM)
+- [Segunda parte](https://www.youtube.com/watch?v=p-2TiPC6jGk)
 
 ### Restaurantes
-- [Video Desarrollo SOlución](https://www.youtube.com/watch?v=kkm3bMZhWzM)
+- [Enunciado](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_RestaurantTrace.pdf)
+- [Video Desarrollo Solución-Primeros 12 Minutos](https://www.youtube.com/watch?v=kkm3bMZhWzM)
 
 
 # Implementar sistema de base de datos NOSQL usando Apache Cassandra
