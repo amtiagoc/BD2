@@ -32,8 +32,8 @@ El contenido esta dividido en 5 unidades así:
 - [Video Desarrollo SOlución](https://youtu.be/jxOVEQECDEI)
 - [SOLUCION](C1_NO_ONLY_SQL_DESIGN/BD2_C1Z_AgenciaInmobiliaria.pdf)
 
-## Preparación Examen
 ### Otro Ejemplo
+- [Enunciado](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
 - [Primera parte](https://www.youtube.com/watch?v=WN9N-HD7IC8)
 - [Segunda parte](https://www.youtube.com/watch?v=kkm3bMZhWzM)
 
