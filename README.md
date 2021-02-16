@@ -57,7 +57,8 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-
+|[20210211- Documentos BD2_C2_Cassandra](https://youtu.be/y9NNkUI5hgE)
+|[20210212- Documentos BD2_C1Y_youtudem parte 1](https://youtu.be/w6775zynbmU)
 
 # Implementar sistema de base de datos NOSQL usando MongoDB
 El contenido de esta unidad abarca los siguientes temas:
