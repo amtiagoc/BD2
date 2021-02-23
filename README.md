@@ -52,7 +52,7 @@ El contenido de esta unidad abarca los siguientes temas:
    - [Info Batch](https://docs.datastax.com/en/archived/cql/3.3/cql/cql_reference/cqlBatch.html)
 - [Ejercicio de Clase - Sistema de Estadisticas](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
 - [Ejercicio Auto Estudio - Sistema de Estacionamientos](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_SistemaEstacionamientoInteligente.pdf)
-- [**NUEVO 2020/10/13 - Taller UDEM](C2_CASSANDRA/BD2_C2_charla_udem_ejemplo_metro.zip)
+- [Taller charla UDEM 2020-1](C2_CASSANDRA/BD2_C2_charla_udem_ejemplo_metro.zip)
 
 ## Enlaces a los videos de clase
 |Fecha           |
@@ -60,6 +60,7 @@ El contenido de esta unidad abarca los siguientes temas:
 |[20210211- Documentos BD2_C2_Cassandra](https://youtu.be/y9NNkUI5hgE)|
 |[20210216- Documentos BD2_C1Y_youtudem parte 1](https://youtu.be/w6775zynbmU)|
 |[20210218- Documentos BD2_C1Y_youtudem parte 2](https://youtu.be/rTVVTJQ03r4)|
+|[20210223- Documento BD2_C2Z_Abecedario_desea_vender_información](https://youtu.be/QfzGVx6sW1g)|
 
 # Implementar sistema de base de datos NOSQL usando MongoDB
 El contenido de esta unidad abarca los siguientes temas:
