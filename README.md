@@ -50,8 +50,8 @@ El contenido de esta unidad abarca los siguientes temas:
    - [GestoresNoSQL –Apache Cassandra Universidad de Cantabria](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/NoSQL_Tema2_Cassandra.pdf)
    - [The Cassandra Query Language (CQL)](https://cassandra.apache.org/doc/latest/cql/index.html)
    - [Info Batch](https://docs.datastax.com/en/archived/cql/3.3/cql/cql_reference/cqlBatch.html)
-- [Ejercicio de Clase - Sistema de Estadisticas](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
-- [Ejercicio Auto Estudio - Sistema de Estacionamientos](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_SistemaEstacionamientoInteligente.pdf)
+- [Ejercicio - Sistema de Estadisticas](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
+- [Ejercicio - Sistema de Estacionamientos](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_SistemaEstacionamientoInteligente.pdf)
 - [Taller charla UDEM 2020-1](C2_CASSANDRA/BD2_C2_charla_udem_ejemplo_metro.zip)
 
 ## Enlaces a los videos de clase
