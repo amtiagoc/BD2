@@ -83,7 +83,7 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-
+|[Intro MongoDB](https://youtu.be/_cjrIhD5OaQ?t=381)|
 
 # Analisis NOSQL
 - [NoSQL Databases Every Data Scientist Should Know About in 2020](https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/)
