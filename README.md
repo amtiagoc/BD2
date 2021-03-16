@@ -116,6 +116,7 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
+|[20210316 - Comentarios finales MongoDB, Apache Cassandra vs MongoDB, Inicio Opcion Procedimental](https://youtu.be/avgqm-SdmfU)|
 
 # Transaccionalidad y Optimización
 ## Presentaciones:
