@@ -117,6 +117,7 @@ El contenido de esta unidad abarca los siguientes temas:
 |Fecha           |
 |----------------|
 |[20210316 - Comentarios finales MongoDB, Apache Cassandra vs MongoDB, Inicio Opcion Procedimental](https://youtu.be/avgqm-SdmfU)|
+|[20210318 - Intro MySQL Workbench 6.0 CE, SqlYOG y ejemplo sistema de inventarios](https://youtu.be/ejdpAlerwlQ)|
 
 # Transaccionalidad y Optimización
 ## Presentaciones:
