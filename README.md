@@ -87,6 +87,7 @@ El contenido de esta unidad abarca los siguientes temas:
 |[20210304 - Intro MongoDB y Compass](https://youtu.be/reNO3hDZtsE)|
 |[20210309 - Ejercicio Sistema Antifraudes - Temas Validaciones en colecciones y PipeLines](https://youtu.be/Lx67VHgtUpI)|
 |[20210311 - Ejercicio Sistema Antifraudes - MongoDB Aggregation Pipeline](https://youtu.be/g-MEcU1NV80)|
+|[20210325 - Solución Examen MongoDB](https://youtu.be/WYip20P0WJg)|
 # Analisis NOSQL
 - [NoSQL Databases Every Data Scientist Should Know About in 2020](https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/)
 - Apache Cassandra VS MongoDB
