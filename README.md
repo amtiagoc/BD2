@@ -111,14 +111,17 @@ El contenido de esta unidad abarca los siguientes temas:
 - [Descargar Herramienta CASE:MySQL Workbench version 6.3](https://downloads.mysql.com/archives/workbench/)
 - [Descargar Herramienta Comandos SQL:SQLYOG](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 ## Temas a trabajar
+### [Conceptos clave MySQL](C4_MYSQL/BD2_C4SP_Conceptos_clave_MySQL.pdf)
 - Opción procedimental Procedimientos almacenados y disparadores
 - Opción procedimental avanzada (Cursores, Lanzar Errores del Usuario)
+### Optimización
 - Análisis de consultas e Indexación
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
 |[20210316 - Comentarios finales MongoDB, Apache Cassandra vs MongoDB, Inicio Opcion Procedimental](https://youtu.be/avgqm-SdmfU)|
 |[20210318 - Intro MySQL Workbench 6.0 CE, SqlYOG y ejemplo sistema de inventarios](https://youtu.be/ejdpAlerwlQ)|
+|[20210406 - Opción procedimental MySQL](https://youtu.be/mPQtl9_hZ-E)|
 
 # Transaccionalidad y Optimización
 ## Presentaciones:
