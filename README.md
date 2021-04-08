@@ -122,6 +122,7 @@ El contenido de esta unidad abarca los siguientes temas:
 |[20210316 - Comentarios finales MongoDB, Apache Cassandra vs MongoDB, Inicio Opcion Procedimental](https://youtu.be/avgqm-SdmfU)|
 |[20210318 - Intro MySQL Workbench 6.0 CE, SqlYOG y ejemplo sistema de inventarios](https://youtu.be/ejdpAlerwlQ)|
 |[20210406 - Opción procedimental MySQL](https://youtu.be/mPQtl9_hZ-E)|
+|[20210408 - MySQL Ejercicio Inventario FIFO - triggers y cursores](https://youtu.be/MJoXuUf4Mjw)|
 
 # Transaccionalidad y Optimización
 ## Presentaciones:
