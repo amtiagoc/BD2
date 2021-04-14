@@ -106,7 +106,7 @@ El contenido de esta unidad abarca los siguientes temas:
 - [Procedimientos Almacenados](https://dev.mysql.com/doc/refman/8.0/en/create-procedure.html)
 - [Cursores](https://dev.mysql.com/doc/refman/8.0/en/cursors.html)
 ## Herramientas
-- [Guia Instalación](C4_MYSQL/Instalar%20Herramientas_MySQLpdf.pdf)
+- [Guia Instalación](C4_MYSQL/BD2_C4_MySQL-SQLYog-Workbench-Instalar.pdf)
 - [Descargar MySQL](http://www.wampserver.com/en/)
 - [Descargar Herramienta CASE:MySQL Workbench version 6.3](https://downloads.mysql.com/archives/workbench/)
 - [Descargar Herramienta Comandos SQL:SQLYOG](https://github.com/webyog/sqlyog-community/wiki/Downloads)
