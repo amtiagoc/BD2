@@ -124,7 +124,6 @@ El contenido de esta unidad abarca los siguientes temas:
 |[20210406 - Opción procedimental MySQL](https://youtu.be/mPQtl9_hZ-E)|
 |[20210408 - MySQL Ejercicio Inventario FIFO - triggers y cursores](https://youtu.be/MJoXuUf4Mjw)|
 |[20210413 - MySQL Solucion Ejercicio Propuesto Inventario CXC - funciones, triggers y cursores](https://youtu.be/mIkAlQxCsmY)|
-
 # Transaccionalidad y Optimización
 ## Presentaciones:
 - [UNAL transacciones](C6_TRANS_IDX/BD2_C6A_UNAL_transacciones_en_Oracle_y_MySQL.pdf)
@@ -147,6 +146,6 @@ El contenido de esta unidad abarca los siguientes temas:
 ## Enlaces a los videos de clase
 |Fecha           |
 |----------------|
-
+|[20210415 - Transaccionalidad, Candados e implementación en MySQL y Oracle](https://youtu.be/OqoETrkDMoc)|
 
 
