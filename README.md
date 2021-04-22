@@ -123,7 +123,8 @@ El contenido de esta unidad abarca los siguientes temas:
 |[20210318 - Intro MySQL Workbench 6.0 CE, SqlYOG y ejemplo sistema de inventarios](https://youtu.be/ejdpAlerwlQ)|
 |[20210406 - Opción procedimental MySQL](https://youtu.be/mPQtl9_hZ-E)|
 |[20210408 - MySQL Ejercicio Inventario FIFO - triggers y cursores](https://youtu.be/MJoXuUf4Mjw)|
-|[20210413 - MySQL Solucion Ejercicio Propuesto Inventario CXC - funciones, triggers y cursores](https://youtu.be/mIkAlQxCsmY)|
+|[20210413 - MySQL Solución Ejercicio Propuesto Inventario CXC - funciones, triggers y cursores](https://youtu.be/mIkAlQxCsmY)|
+|[20210422 - MySQl Solución Examen de Anchetas (SubModulo de Inventario)](https://youtu.be/pc6CoVZeXWE)|
 # Transaccionalidad y Optimización
 ## Presentaciones:
 - [UNAL transacciones](C6_TRANS_IDX/BD2_C6A_UNAL_transacciones_en_Oracle_y_MySQL.pdf)
