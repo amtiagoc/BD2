@@ -148,5 +148,5 @@ El contenido de esta unidad abarca los siguientes temas:
 |Fecha           |
 |----------------|
 |[20210415 - Transaccionalidad, Candados e implementación en MySQL y Oracle](https://youtu.be/OqoETrkDMoc)|
-
+|[20210427 - Desactivar AutoCommit, Permisos y seguridad y buenas practicas](https://youtu.be/cKCFrDT6Trs)|
 
