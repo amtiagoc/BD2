@@ -150,4 +150,4 @@ El contenido de esta unidad abarca los siguientes temas:
 |[20210415 - Transaccionalidad, Candados e implementación en MySQL y Oracle](https://youtu.be/OqoETrkDMoc)|
 |[20210427 - Desactivar AutoCommit, Permisos y seguridad y buenas practicas](https://youtu.be/cKCFrDT6Trs)|
 |[20210429 - Teoría de como funcionan las Busquedas y Joins en la base de datos. Indexación y Motores de MySQL](https://youtu.be/MUsbwyL1-Zc)|
-
+|[20210429 - Optimizacion](https://youtu.be/Yr0i9e7JU2o)|
