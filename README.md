@@ -140,9 +140,10 @@ El contenido de esta unidad abarca los siguientes temas:
 - [Parte 1](https://www.youtube.com/watch?v=Y7Qlc7f_u0o)
 - [Parte 2](https://www.youtube.com/watch?v=HSnwW5Punm0)
 ### Transacciones
-- [Parte 1](https://www.youtube.com/watch?v=O2wYl9UHFNc)
-- [Parte 2](https://www.youtube.com/watch?v=r6ALmAXRHQM)
-- [Parte 3](https://www.youtube.com/watch?v=5-dlz0YimR4)
+- [Parte 1](https://www.youtube.com/watch?v=FA85kHsJss4)
+- [Parte 2](https://www.youtube.com/watch?v=O2wYl9UHFNc)
+- [Parte 3](https://www.youtube.com/watch?v=r6ALmAXRHQM)
+- [Parte 4](https://www.youtube.com/watch?v=5-dlz0YimR4)
 
 
 ## Enlaces a los videos de clase
