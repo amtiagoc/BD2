@@ -154,3 +154,5 @@ El contenido de esta unidad abarca los siguientes temas:
 |[20210429 - Teoría de como funcionan las Busquedas y Joins en la base de datos. Indexación y Motores de MySQL](https://youtu.be/MUsbwyL1-Zc)|
 |[20210504 - Optimizacion](https://youtu.be/Yr0i9e7JU2o)|
 |[20210506 - Solución dudas transaccionalidad y abrazo mortal. Tipos de Indices y ejemplos de usos](https://youtu.be/Q7Cb7kzR-Wg)|
+|[20210511 - Comunicado del 10, Examen Prueba, Temas estudio](https://youtu.be/_L_7zpC7YHQ)|
+|[20210513 - Ejemplo gráfico Indexación, candados y abrazo mortal](https://youtu.be/04Y_pRe-gM0)|
