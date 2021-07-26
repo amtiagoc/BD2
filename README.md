@@ -18,30 +18,6 @@ El contenido esta dividido en 5 unidades así:
 - [Guia Diseño Apache Cassandra en Ingles](https://cassandra.apache.org/doc/latest/data_modeling/intro.html)
 - [Intro y Diseño base de datos en MongoDB](C1_NO_ONLY_SQL_DESIGN/BD2_C1B_Mongo_Modelando.pdf)
 
-## Enlaces a los videos de clase
-|Fecha           |
-|----------------|
-|[20210126- Documentos BD2_C0B_Repaso_Modelo_ER](https://youtu.be/r_7ZQV_CgII)|
-|[Semestre Pasado Repaso Modelo ER](https://www.youtube.com/watch?v=iiA3vkQKAYU)|
-|[20210128- Documentos BD2_C1_NO_ONLY_SQL y BD2_C1A_Cassandra Modelado](https://youtu.be/WWstYeoIJ3w)|
-|[20210202- Documentos BD2_C1A_Cassandra Modelado, BD2_C1AX_Cassandra Data Modeling Strategies, BD2_C1B_Mongo_Modelando y BD2_C1Y_AgenciaInmobiliaria](https://youtu.be/0jGFTnNbfzk)|
-|[20210204- Documentos BD2_C1Y_AgenciaInmobiliaria,BD2_C1Z_AgenciaInmobiliaria y BD2_C1A_Cassandra Modelado](https://youtu.be/8l02YMAw95o)|
-
-## Preparación Examen
-### Agencia Inmoviliaria
-- [Enunciado](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_AgenciaInmobiliaria.pdf)
-- [Video Desarrollo Solución](https://youtu.be/jxOVEQECDEI)
-- [SOLUCION](C1_NO_ONLY_SQL_DESIGN/BD2_C1Z_AgenciaInmobiliaria.pdf)
-
-### Estadisticas
-- [Enunciado](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
-- [Video Primera parte](https://www.youtube.com/watch?v=WN9N-HD7IC8)
-- [Video Segunda parte-Primeros 21 Minutos](https://www.youtube.com/watch?v=p-2TiPC6jGk)
-
-### Restaurantes
-- [Enunciado](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_RestaurantTrace.pdf)
-- [Video Desarrollo Solución-Primeros 12 Minutos](https://www.youtube.com/watch?v=kkm3bMZhWzM)
-
 
 # Implementar sistema de base de datos NOSQL usando Apache Cassandra
 El contenido de esta unidad abarca los siguientes temas:
@@ -51,17 +27,7 @@ El contenido de esta unidad abarca los siguientes temas:
    - [GestoresNoSQL –Apache Cassandra Universidad de Cantabria](https://ocw.unican.es/pluginfile.php/2396/course/section/2473/NoSQL_Tema2_Cassandra.pdf)
    - [The Cassandra Query Language (CQL)](https://cassandra.apache.org/doc/latest/cql/index.html)
    - [Info Batch](https://docs.datastax.com/en/archived/cql/3.3/cql/cql_reference/cqlBatch.html)
-- [Ejercicio - Sistema de Estadisticas](C2_CASSANDRA/BD2_C2Y_Estadisticas.pdf)
-- [Ejercicio - Sistema de Estacionamientos](C1_NO_ONLY_SQL_DESIGN/BD2_C1Y_SistemaEstacionamientoInteligente.pdf)
-- [Taller charla UDEM 2020-1](C2_CASSANDRA/BD2_C2_charla_udem_ejemplo_metro.zip)
 
-## Enlaces a los videos de clase
-|Fecha           |
-|----------------|
-|[20210211- Documentos BD2_C2_Cassandra](https://youtu.be/y9NNkUI5hgE)|
-|[20210216- Documentos BD2_C1Y_youtudem parte 1](https://youtu.be/w6775zynbmU)|
-|[20210218- Documentos BD2_C1Y_youtudem parte 2](https://youtu.be/rTVVTJQ03r4)|
-|[20210223- Documento BD2_C2Z_Abecedario_desea_vender_información](https://youtu.be/QfzGVx6sW1g)|
 
 # Implementar sistema de base de datos NOSQL usando MongoDB
 El contenido de esta unidad abarca los siguientes temas:
@@ -78,17 +44,8 @@ El contenido de esta unidad abarca los siguientes temas:
    - Consultas avanzadas y minería de datos usando PipeLines
    - Análisis de consultas e Indexación
 - [Vistas](https://docs.mongodb.com/compass/current/views/)
-- Ejercicio de clase - Dane Ciudad Nace y vive
-   - [Enunciado](C3_MONGODB/BD2_C1Y_DANE_CiudadNace_a_vivido.pdf)
-   - [Solución](C3_MONGODB/BD2_C1Z_DANE_CiudadNace_a_vivido.pdf)
-## Enlaces a los videos de clase
-|Fecha           |
-|----------------|
-|[20210225 - Intro MongoDB](https://youtu.be/qWtuR3uGcu0)|
-|[20210304 - Intro MongoDB y Compass](https://youtu.be/reNO3hDZtsE)|
-|[20210309 - Ejercicio Sistema Antifraudes - Temas Validaciones en colecciones y PipeLines](https://youtu.be/Lx67VHgtUpI)|
-|[20210311 - Ejercicio Sistema Antifraudes - MongoDB Aggregation Pipeline](https://youtu.be/g-MEcU1NV80)|
-|[20210325 - Solución Examen MongoDB](https://youtu.be/WYip20P0WJg)|
+
+
 # Analisis NOSQL
 - [NoSQL Databases Every Data Scientist Should Know About in 2020](https://www.analyticsvidhya.com/blog/2020/09/different-nosql-databases-every-data-scientist-must-know/)
 - Apache Cassandra VS MongoDB
@@ -117,15 +74,7 @@ El contenido de esta unidad abarca los siguientes temas:
 - Opción procedimental avanzada (Cursores, Lanzar Errores del Usuario)
 ### Optimización
 - Análisis de consultas e Indexación
-## Enlaces a los videos de clase
-|Fecha           |
-|----------------|
-|[20210316 - Comentarios finales MongoDB, Apache Cassandra vs MongoDB, Inicio Opcion Procedimental](https://youtu.be/avgqm-SdmfU)|
-|[20210318 - Intro MySQL Workbench 6.0 CE, SqlYOG y ejemplo sistema de inventarios](https://youtu.be/ejdpAlerwlQ)|
-|[20210406 - Opción procedimental MySQL](https://youtu.be/mPQtl9_hZ-E)|
-|[20210408 - MySQL Ejercicio Inventario FIFO - triggers y cursores](https://youtu.be/MJoXuUf4Mjw)|
-|[20210413 - MySQL Solución Ejercicio Propuesto Inventario CXC - funciones, triggers y cursores](https://youtu.be/mIkAlQxCsmY)|
-|[20210422 - MySQl Solución Examen de Anchetas (SubModulo de Inventario)](https://youtu.be/pc6CoVZeXWE)|
+
 # Transaccionalidad y Optimización
 ## Presentaciones:
 - [UNAL transacciones](C6_TRANS_IDX/BD2_C6A_UNAL_transacciones_en_Oracle_y_MySQL.pdf)
@@ -145,14 +94,3 @@ El contenido de esta unidad abarca los siguientes temas:
 - [Parte 3](https://www.youtube.com/watch?v=r6ALmAXRHQM)
 - [Parte 4](https://www.youtube.com/watch?v=5-dlz0YimR4)
 
-
-## Enlaces a los videos de clase
-|Fecha           |
-|----------------|
-|[20210415 - Transaccionalidad, Candados e implementación en MySQL y Oracle](https://youtu.be/OqoETrkDMoc)|
-|[20210427 - Desactivar AutoCommit, Permisos y seguridad y buenas practicas](https://youtu.be/cKCFrDT6Trs)|
-|[20210429 - Teoría de como funcionan las Busquedas y Joins en la base de datos. Indexación y Motores de MySQL](https://youtu.be/MUsbwyL1-Zc)|
-|[20210504 - Optimizacion](https://youtu.be/Yr0i9e7JU2o)|
-|[20210506 - Solución dudas transaccionalidad y abrazo mortal. Tipos de Indices y ejemplos de usos](https://youtu.be/Q7Cb7kzR-Wg)|
-|[20210511 - Comunicado del 10, Examen Prueba, Temas estudio](https://youtu.be/_L_7zpC7YHQ)|
-|[20210513 - Ejemplo gráfico Indexación, candados y abrazo mortal](https://youtu.be/04Y_pRe-gM0)|
