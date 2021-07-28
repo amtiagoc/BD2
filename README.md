@@ -11,7 +11,7 @@ Para realizar el objetivo vamos a analizar de problemas de almacenamiento de dat
 El contenido esta dividido en 5 unidades así:
 # Diseño base de datos NOSQL
 ## Enlaces a los contenidos
-- [Repaso modelo relacional](C0_INTRO/BD2_C0B_Repaso_Modelo_ER.pdf)
+- [Repaso modelo relacional](C0_INTRO/BD2_C0B_Repaso_Modelo_ER.pdf) [Video Solución: Fecha 20210126](https://youtu.be/r_7ZQV_CgII)
 - [Teorema de CAP y clasificación de las bases de datos NOSQL](C1_NO_ONLY_SQL_DESIGN/BD2_C1_NO_ONLY_SQL.pdf)
 - [Cassandra Data Modeling Strategies (**ingles**) ](C1_NO_ONLY_SQL_DESIGN/BD2_C1AX_Cassandra%20Data%20Modeling%20Strategies.pdf)
 - [Diseño base de datos en Apache Cassandra y Diagramas de Chebotko (Actualizado)](C1_NO_ONLY_SQL_DESIGN/BD2_C1A_Cassandra%20Modelado.pdf)
